@@ -1,0 +1,34 @@
+body {
+  padding-top: 3rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+td img{
+	height: 30px;
+	opacity:1;
+}
+
+td.name{
+	text-transform: uppercase;
+	font-size: 1.1rem;
+}
+
+td.type{
+	color: #888;
+}
+
+/* flag idea as cell backgrounds
+
+.hk{
+	background-image: url("img/flags/hk.png");
+    background-repeat: no-repeat;
+}
+.usa{
+	background-image: url("img/flags/usa.png");
+    background-repeat: no-repeat;
+}
+
+*/
