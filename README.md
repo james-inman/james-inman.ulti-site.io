@@ -1,1 +1,1 @@
-# Directory for worldwide ultimate frisbee events
+## Directory for worldwide ultimate frisbee events
